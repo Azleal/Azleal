@@ -33,7 +33,7 @@
     <tr>
         <td align="center"><a href="https://github.com/azleal#gh-light-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=azleal&theme=default"/></a><a href="https://github.com/azleal#gh-dark-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=azleal&theme=tokyonight"/></a></td>
     </tr>
-    <tr>
+<!--     <tr>
         <td colspan="2" align="center"><a href="https://github.com/azleal#gh-light-mode-only"><img src="https://raw.githubusercontent.com/azleal/azleal/output/github-contribution-grid-snake-default.svg#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/azleal#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/azleal/azleal/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
-    </tr>
+    </tr> -->
 </table>
